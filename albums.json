@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "Revenant",
+    "coverUrl": "https://raw.githubusercontent.com/jmsjunior87/dartune-music/main/covers/Revenant.jpg",
+    "tracks": [
+      {
+        "id": "track1",
+        "title": "After I'm Gone",
+        "url": "https://raw.githubusercontent.com/jmsjunior87/dartune-music/main/tracks/After I'm Gone.opus"
+      }
+    ]
+  }
+]
